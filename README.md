@@ -49,5 +49,5 @@ SQL Básico
 ---
 
 📫 Contatos:   
-- [LinkedIn](https:www.linkedin.com/in/alisson-souza-torres-ribeiro-664974328)  
+- LinkedIn: (https:www.linkedin.com/in/alisson-souza-torres-ribeiro-664974328)  
 - Email pessoal: alissonribeiro2028str@gmail.com
